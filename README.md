@@ -20,3 +20,12 @@ learn open CV with the help of Udemy open CV course material.<br/>
 - Introduction to **Neural network**.
 - Explanation on **forward propagation**.
     - **Bias trick**
+    
+### Day - 3 (02/10/2019):
+
+- Learned about "Activation function" 
+    - relu function 
+- Learned about "Loss function".
+- Learned about "Backpropagation"
+- Learned about "Gradient descent"
+- Glimpse of "Chain Rule"
